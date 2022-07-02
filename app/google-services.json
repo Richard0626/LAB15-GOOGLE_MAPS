@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199309635847",
+    "project_id": "dmarco-2022",
+    "storage_bucket": "dmarco-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199309635847:android:856af5249d04c3dd3295a2",
+        "android_client_info": {
+          "package_name": "com.fernandez.practica2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199309635847-ibqb5qug5anu8610ct0fn5r1nd1h2djc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvqx7T5tafsWJfOMISoGCEtNIYuqiFZoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199309635847-ibqb5qug5anu8610ct0fn5r1nd1h2djc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
